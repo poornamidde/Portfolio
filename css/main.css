@@ -1623,6 +1623,7 @@ header{
  * ------------------------------------------------------------------- 
  */
 #resume {
+	background: #000000;
 	padding-top: 12rem;
 	padding-bottom: 12rem;
 }
@@ -1631,7 +1632,7 @@ header{
 	text-align: center;
 }
 #resume .resume-header h2 {
-	color: #FF0077;
+	color: #0da8e6;
 }
 
 #resume .resume-timeline {
@@ -1663,7 +1664,7 @@ header{
 	background: #313131;
 	border-radius: 50%;
 	text-align: center;
-	color: #FFFFFF;
+	color: #0da8e6;
 	position: absolute;
 	left: 35%;
 	top: .9rem;
@@ -1675,7 +1676,7 @@ header{
 	top: .2rem;
 }
 
-#resume .timeline-header {
+#resume .timeline-header {	
 	float: left;
 	width: 35%;
 	padding-right: 90px;
@@ -1687,7 +1688,7 @@ header{
 #resume .timeline-header p {
 	font-family: "poppins-regular", sans-serif;
 	font-size: 1.6rem;
-	color: #888888;
+	color: #0da8e6;
 }
 #resume .timeline-content {
 	margin-left: 35%;
@@ -1792,7 +1793,7 @@ header{
  * ------------------------------------------------------------------- 
  */
 #portfolio {
-	background: #FFFFFF;
+	background: #111010;
 	padding-top: 12rem;
 	padding-bottom: 12rem;
 }
