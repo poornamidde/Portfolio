@@ -1560,7 +1560,7 @@ header{
 	text-align: center;
 }
 .button-section .button {
-	width: 250px;
+	width: 450px;
 }
 .button-section [class*="col-"] .button:first-child {
 	margin-right: 4rem;
