@@ -1795,7 +1795,7 @@ header{
 #portfolio {
 	background: #111010;
 	padding-top: 12rem;
-	padding-bottom: 12rem;
+/* 	padding-bottom: 12rem; */
 }
 #portfolio .folio-item {
 	padding: 0;
